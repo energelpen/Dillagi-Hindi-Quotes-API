@@ -1,0 +1,5 @@
+Flask==2.3.3
+Flask-Limiter==3.5.0
+TinyDB==4.8.0
+Werkzeug==2.3.7
+redis==5.0.1
